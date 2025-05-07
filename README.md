@@ -7,7 +7,7 @@
 - ⚡ Fun fact **in my free time, I watch sitcoms and I'm a gym cat(love the gym but hardly go)**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" gap="4px">
 <a href="https://twitter.com/presh_ot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="presh_ot" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/precious-omotosho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="precious-omotosho" height="20" width="20" /></a>
 <a href="https://www.youtube.com/c/preciousomotoshot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="preciousomotoshot" height="20" width="20" /></a>
