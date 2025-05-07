@@ -14,7 +14,7 @@
   <a href="https://linkedin.com/in/precious-omotosho" target="_blank" style="display:inline-block; margin-right:10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="precious-omotosho" height="20" width="20" />
   </a>
-  <a href="https://www.youtube.com/@preciousomotoshoT" target="_blank" style="display:inline-block;">
+  <a href="https://www.youtube.com/@preciousomotoshoT" target="_self" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="preciousomotoshot" height="20" width="20" />
   </a>
 </p>
