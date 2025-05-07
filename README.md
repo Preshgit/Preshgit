@@ -6,7 +6,8 @@
 
 - ⚡ Fun fact **in my free time, I watch sitcoms and I'm a gym cat(love the gym but hardly go)**
 
-<h3 align="left">Connect with me:
+<h3 align="left">Connect with me:[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/precious-omotosho) [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/presh_ot_?t=0BjJVBY9TQ33rd69BGu00A&s=09)</h3>
+
 <p>
   <a href="https://twitter.com/presh_ot" target="_blank" style="display:inline-block; margin-right:10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="presh_ot" height="20" width="20" />
@@ -18,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="preciousomotoshot" height="20" width="20" />
   </a>
 </p>
-</h3>
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
