@@ -6,8 +6,8 @@
 
 - ⚡ Fun fact **in my free time, I watch sitcoms and I'm a gym cat(love the gym but hardly go)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Connect with me:
+<p>
   <a href="https://twitter.com/presh_ot" target="_blank" style="display:inline-block; margin-right:10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="presh_ot" height="20" width="20" />
   </a>
@@ -18,7 +18,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="preciousomotoshot" height="20" width="20" />
   </a>
 </p>
-
+</h3>
 ---
 
 <h3 align="left">Languages and Tools:</h3>
