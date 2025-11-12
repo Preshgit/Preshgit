@@ -1,4 +1,4 @@
-<h1 align="center">Hi World 👋, I'm Precious a passionate front-end developer</h1>
+<h1 align="center">Hi World 👋, I'm Precious a passionate Executive Creative and Front-end developer</h1>
 
 - 🌱 I’m Interested in **Open source, Web performance, Software engineering** and **Personal development.**
 
